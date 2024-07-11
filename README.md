@@ -23,4 +23,7 @@ Sales analysis for South America region 2022, including KPIs, sales trends, cust
 - Improve speed and service by investing more time in employee training to attract customers.
 - Investigate the distribution of sales by country. Why does Argentina have the strongest market?
 
-Reference: Kenji Explains
+
+
+
+###### ***Reference: Kenji Explains***
